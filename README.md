@@ -1,1 +1,1 @@
-# project
+# Team Synaptic's hackathon entry.
